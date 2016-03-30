@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=brick": { "model": "wilsonsmpblocks:obsidian_brick" },
+        "variant=chiseled": { "model": "wilsonsmpblocks:obsidian_chiseled" }
+    }
+}

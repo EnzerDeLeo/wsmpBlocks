@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "variant=tin": { "model": "wilsonsmpblocks:metalcube_tin" },
+        "variant=copper": { "model": "wilsonsmpblocks:metalcube_copper" },
+        "variant=oxicopper": { "model": "wilsonsmpblocks:metalcube_oxicopper" },
+        "variant=bronze": { "model": "wilsonsmpblocks:metalcube_bronze" },
+        "variant=ironrust": { "model": "wilsonsmpblocks:metalcube_ironrust" },
+        "variant=ironwrought": { "model": "wilsonsmpblocks:metalcube_ironwrought" },
+        "variant=ironwroughtrust": { "model": "wilsonsmpblocks:metalcube_ironwroughtrust" },
+        "variant=steel": { "model": "wilsonsmpblocks:metalcube_steel" },
+        "variant=silver": { "model": "wilsonsmpblocks:metalcube_silver" },
+        "variant=mithral": { "model": "wilsonsmpblocks:metalcube_mithral" },
+        "variant=ironblood": { "model": "wilsonsmpblocks:metalcube_ironblood" },
+        "variant=orichalcum": { "model": "wilsonsmpblocks:metalcube_orichalcum" }
+    }
+}

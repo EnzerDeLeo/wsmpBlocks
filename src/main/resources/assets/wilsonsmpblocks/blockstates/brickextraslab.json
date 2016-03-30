@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "half=bottom,variant=tiledcobble": { "model": "wilsonsmpblocks:half_slab_brick_extra_tiledcobble" },
+        "half=top,variant=tiledcobble": { "model": "wilsonsmpblocks:upper_slab_brick_extra_tiledcobble" },
+		"half=bottom,variant=brightred": { "model": "wilsonsmpblocks:half_slab_brick_extra_brightred" },
+        "half=top,variant=brightred": { "model": "wilsonsmpblocks:upper_slab_brick_extra_brightred" },
+		"half=bottom,variant=darkred": { "model": "wilsonsmpblocks:half_slab_brick_extra_darkred" },
+        "half=top,variant=darkred": { "model": "wilsonsmpblocks:upper_slab_brick_extra_darkred" },
+		"half=bottom,variant=tiledred": { "model": "wilsonsmpblocks:half_slab_brick_extra_tiledred" },
+        "half=top,variant=tiledred": { "model": "wilsonsmpblocks:upper_slab_brick_extra_tiledred" },
+        "half=bottom,variant=stonebrickblack": { "model": "wilsonsmpblocks:half_slab_brick_extra_stonebrickblack" },
+        "half=top,variant=stonebrickblack": { "model": "wilsonsmpblocks:upper_slab_brick_extra_stonebrickblack" }
+    }
+}

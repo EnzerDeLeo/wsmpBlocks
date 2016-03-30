@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "variant=abandoned": { "model": "wilsonsmpblocks:shelves_abandoned" },
+        "variant=alchemy": { "model": "wilsonsmpblocks:shelves_alchemy" },
+        "variant=bottle": { "model": "wilsonsmpblocks:shelves_bottle" },
+        "variant=empty": { "model": "wilsonsmpblocks:shelves_empty" },
+        "variant=food": { "model": "wilsonsmpblocks:shelves_food" }
+    }
+}

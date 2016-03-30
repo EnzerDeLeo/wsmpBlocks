@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "wilsonsmpblocks:blocks/brick_bright_red",
+        "top": "wilsonsmpblocks:blocks/brick_bright_red",
+        "side": "wilsonsmpblocks:blocks/brick_bright_red"
+    }
+}

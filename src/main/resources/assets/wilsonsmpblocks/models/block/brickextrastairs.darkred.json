@@ -1,0 +1,8 @@
+{
+	"parent": "block/stairs",
+	"textures": {
+		"bottom": "wilsonsmpblocks:blocks/brick_dark_red",
+		"top": "wilsonsmpblocks:blocks/brick_dark_red",
+		"side": "wilsonsmpblocks:blocks/brick_dark_red"
+	}
+}

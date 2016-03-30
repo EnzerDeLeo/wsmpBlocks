@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "half=bottom,variant=tan": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_tan" },
+        "half=top,variant=tan": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_tan" },
+		"half=bottom,variant=red": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_red" },
+        "half=top,variant=red": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_red" },
+		"half=bottom,variant=brown": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_brown" },
+        "half=top,variant=brown": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_brown" },
+		"half=bottom,variant=dark": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_dark" },
+        "half=top,variant=dark": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_dark" },
+		"half=bottom,variant=tansmooth": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_tansmooth" },
+        "half=top,variant=tansmooth": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_tansmooth" },
+		"half=bottom,variant=tanmossy": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_tanmossy" },
+        "half=top,variant=tanmossy": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_tanmossy" },
+		"half=bottom,variant=brownmossy": { "model": "wilsonsmpblocks:half_slab_sandstone_brick_brownmossy" },
+        "half=top,variant=brownmossy": { "model": "wilsonsmpblocks:upper_slab_sandstone_brick_brownmossy" }
+    }
+}

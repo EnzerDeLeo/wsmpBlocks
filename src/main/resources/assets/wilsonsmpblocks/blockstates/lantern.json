@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=candle": { "model": "wilsonsmpblocks:lantern_candle" },
+        "variant=blue": { "model": "wilsonsmpblocks:lantern_blue" },
+        "variant=green": { "model": "wilsonsmpblocks:lantern_green" },
+        "variant=red": { "model": "wilsonsmpblocks:lantern_red" },
+        "variant=yellow": { "model": "wilsonsmpblocks:lantern_yellow" },
+        "variant=nether": { "model": "wilsonsmpblocks:lantern_nether" }
+    }
+}

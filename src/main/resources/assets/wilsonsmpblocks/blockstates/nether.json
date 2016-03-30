@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=ashbrick": { "model": "wilsonsmpblocks:nether_ashbrick" },
+        "variant=ashbrickblood": { "model": "wilsonsmpblocks:nether_ashbrickblood" },
+        "variant=sootbrick": { "model": "wilsonsmpblocks:nether_sootbrick" },
+        "variant=blastedstone": { "model": "wilsonsmpblocks:nether_blastedstone" },
+        "variant=tiledbone": { "model": "wilsonsmpblocks:nether_tiledbone" },
+        "variant=tiledboneblood": { "model": "wilsonsmpblocks:nether_tiledboneblood" },
+        "variant=infernalbrick": { "model": "wilsonsmpblocks:nether_infernalbrick" },
+        "variant=infestedearth": { "model": "wilsonsmpblocks:nether_infestedearth" },
+        "variant=rustedmetal": { "model": "wilsonsmpblocks:nether_rustedmetal" }
+    }
+}

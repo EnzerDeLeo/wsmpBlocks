@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "wilsonsmpblocks:half_slab_obsidian_brick" },
+        "half=top,variant=false": { "model": "wilsonsmpblocks:upper_slab_obsidian_brick" }
+    }
+}

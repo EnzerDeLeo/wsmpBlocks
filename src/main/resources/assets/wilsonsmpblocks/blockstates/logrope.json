@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=ns": { "model": "wilsonsmpblocks:logrope_ns" },
+        "variant=ew": { "model": "wilsonsmpblocks:logrope_ew" },
+        "variant=ud": { "model": "wilsonsmpblocks:logrope_ud" }
+    }
+}

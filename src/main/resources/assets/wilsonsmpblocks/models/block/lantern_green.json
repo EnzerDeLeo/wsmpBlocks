@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "wilsonsmpblocks:blocks/lantern_top",
+        "down": "wilsonsmpblocks:blocks/lantern_top",
+        "side": "wilsonsmpblocks:blocks/lantern_green"
+    }
+}

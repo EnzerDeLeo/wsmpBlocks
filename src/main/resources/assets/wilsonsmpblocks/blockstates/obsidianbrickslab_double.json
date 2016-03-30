@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "wilsonsmpblocks:obsidian_brick" },
+        "variant=true":    { "model": "wilsonsmpblocks:obsidian_brick" }
+    }
+}

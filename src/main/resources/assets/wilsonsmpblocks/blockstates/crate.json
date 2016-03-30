@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=closed": { "model": "wilsonsmpblocks:crate_closed" },
+        "variant=apple": { "model": "wilsonsmpblocks:crate_apple" },
+        "variant=berry": { "model": "wilsonsmpblocks:crate_berry" },
+        "variant=carrot": { "model": "wilsonsmpblocks:crate_carrot" },
+        "variant=fish": { "model": "wilsonsmpblocks:crate_fish" },
+        "variant=grain": { "model": "wilsonsmpblocks:crate_grain" },
+        "variant=ingot": { "model": "wilsonsmpblocks:crate_ingot" },
+        "variant=potato": { "model": "wilsonsmpblocks:crate_potato" },
+        "variant=sugar": { "model": "wilsonsmpblocks:crate_sugar" }
+    }
+}

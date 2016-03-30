@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=ns": { "model": "wilsonsmpblocks:rope_ns" },
+        "variant=ew": { "model": "wilsonsmpblocks:rope_ew" },
+        "variant=ud": { "model": "wilsonsmpblocks:rope_ud" },
+        "variant=connect": { "model": "wilsonsmpblocks:rope_connect" },
+        "variant=anchor": { "model": "wilsonsmpblocks:rope_anchor" },
+        "variant=netns": { "model": "wilsonsmpblocks:rope_netns" },
+        "variant=netsn": { "model": "wilsonsmpblocks:rope_netsn" },
+        "variant=netew": { "model": "wilsonsmpblocks:rope_netew" },
+        "variant=netwe": { "model": "wilsonsmpblocks:rope_netwe" }
+    }
+}

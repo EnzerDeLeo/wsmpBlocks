@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=whiteempty": { "model": "wilsonsmpblocks:daubwattle_whiteempty" },
+        "variant=whiteleft": { "model": "wilsonsmpblocks:daubwattle_whiteleft" },
+        "variant=whiteright": { "model": "wilsonsmpblocks:daubwattle_whiteright" },
+        "variant=whitecross": { "model": "wilsonsmpblocks:daubwattle_whitecross" },
+        "variant=grayempty": { "model": "wilsonsmpblocks:daubwattle_grayempty" },
+        "variant=grayleft": { "model": "wilsonsmpblocks:daubwattle_grayleft" },
+        "variant=grayright": { "model": "wilsonsmpblocks:daubwattle_grayright" },
+        "variant=graycross": { "model": "wilsonsmpblocks:daubwattle_graycross" },
+        "variant=brownempty": { "model": "wilsonsmpblocks:daubwattle_brownempty" },
+        "variant=brownleft": { "model": "wilsonsmpblocks:daubwattle_brownleft" },
+        "variant=brownright": { "model": "wilsonsmpblocks:daubwattle_brownright" },
+        "variant=browncross": { "model": "wilsonsmpblocks:daubwattle_browncross" },
+        "variant=brickleft": { "model": "wilsonsmpblocks:daubwattle_brickleft" },
+        "variant=brickright": { "model": "wilsonsmpblocks:daubwattle_brickright" },
+        "variant=brickcross": { "model": "wilsonsmpblocks:daubwattle_brickcross" }
+    }
+}

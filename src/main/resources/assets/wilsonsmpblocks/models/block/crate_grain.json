@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "wilsonsmpblocks:blocks/crate_grain",
+        "side": "wilsonsmpblocks:blocks/crate_closed"
+    }
+}

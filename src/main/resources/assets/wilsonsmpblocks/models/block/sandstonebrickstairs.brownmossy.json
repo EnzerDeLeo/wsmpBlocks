@@ -1,0 +1,8 @@
+{
+	"parent": "block/stairs",
+	"textures": {
+		"bottom": "wilsonsmpblocks:blocks/sandstone_brick_brown_mossy",
+		"top": "wilsonsmpblocks:blocks/sandstone_brick_brown_mossy",
+		"side": "wilsonsmpblocks:blocks/sandstone_brick_brown_mossy"
+	}
+}

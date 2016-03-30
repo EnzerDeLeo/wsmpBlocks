@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "wilsonsmpblocks:blocks/stone_brick_black",
+        "top": "wilsonsmpblocks:blocks/stone_brick_black",
+        "side": "wilsonsmpblocks:blocks/stone_brick_black"
+    }
+}

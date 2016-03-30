@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=swn": { "model": "wilsonsmpblocks:wheel_swn" },
+        "variant=swe": { "model": "wilsonsmpblocks:wheel_swe" },
+        "variant=sws": { "model": "wilsonsmpblocks:wheel_sws" },
+        "variant=sww": { "model": "wilsonsmpblocks:wheel_sww" }
+    }
+}

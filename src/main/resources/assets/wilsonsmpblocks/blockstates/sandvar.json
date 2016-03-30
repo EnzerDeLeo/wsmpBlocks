@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "variant=ash": { "model": "wilsonsmpblocks:sandvar_ash" },
+        "variant=soot": { "model": "wilsonsmpblocks:sandvar_soot" },
+        "variant=brown": { "model": "wilsonsmpblocks:sandvar_brown" },
+        "variant=dark": { "model": "wilsonsmpblocks:sandvar_dark" },
+        "variant=white": { "model": "wilsonsmpblocks:sandvar_white" }
+    }
+}

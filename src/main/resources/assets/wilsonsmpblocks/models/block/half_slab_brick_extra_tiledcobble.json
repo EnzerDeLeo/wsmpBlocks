@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "wilsonsmpblocks:blocks/brick_tiled_cobble",
+        "top": "wilsonsmpblocks:blocks/brick_tiled_cobble",
+        "side": "wilsonsmpblocks:blocks/brick_tiled_cobble"
+    }
+}

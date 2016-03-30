@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "variant=blue": { "model": "wilsonsmpblocks:daubwattlecolor_blue" },
+        "variant=cyan": { "model": "wilsonsmpblocks:daubwattlecolor_cyan" },
+        "variant=green": { "model": "wilsonsmpblocks:daubwattlecolor_green" },
+        "variant=lightblue": { "model": "wilsonsmpblocks:daubwattlecolor_lightblue" },
+        "variant=lime": { "model": "wilsonsmpblocks:daubwattlecolor_lime" },
+        "variant=magenta": { "model": "wilsonsmpblocks:daubwattlecolor_magenta" },
+        "variant=orange": { "model": "wilsonsmpblocks:daubwattlecolor_orange" },
+        "variant=pink": { "model": "wilsonsmpblocks:daubwattlecolor_pink" },
+        "variant=purple": { "model": "wilsonsmpblocks:daubwattlecolor_purple" },
+        "variant=red": { "model": "wilsonsmpblocks:daubwattlecolor_red" },
+        "variant=yellow": { "model": "wilsonsmpblocks:daubwattlecolor_yellow" }
+    }
+}

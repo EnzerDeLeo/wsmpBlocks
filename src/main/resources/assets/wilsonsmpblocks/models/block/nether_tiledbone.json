@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "wilsonsmpblocks:blocks/tiled_brick_bone_top",
+        "side": "wilsonsmpblocks:blocks/tiled_brick_bone"
+    }
+}

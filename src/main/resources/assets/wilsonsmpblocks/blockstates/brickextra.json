@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=brightred": { "model": "wilsonsmpblocks:brickextra_brightred" },
+        "variant=darkred": { "model": "wilsonsmpblocks:brickextra_darkred" },
+        "variant=tiledred": { "model": "wilsonsmpblocks:brickextra_tiledred" },
+        "variant=tiledcobble": { "model": "wilsonsmpblocks:brickextra_tiledcobble" },
+        "variant=stonebrickblack": { "model": "wilsonsmpblocks:brickextra_stonebrickblack" }
+        
+    }
+}

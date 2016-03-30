@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=blue": { "model": "wilsonsmpblocks:glowstonecolor_blue" },
+        "variant=green": { "model": "wilsonsmpblocks:glowstonecolor_green" },
+        "variant=red": { "model": "wilsonsmpblocks:glowstonecolor_red" },
+        "variant=leaf": { "model": "wilsonsmpblocks:glowstonecolor_leaf" }
+    }
+}

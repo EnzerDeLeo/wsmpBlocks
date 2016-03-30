@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "wilsonsmpblocks:blocks/lapis_stone_top",
+        "down": "wilsonsmpblocks:blocks/lapis_stone_top",
+        "side": "wilsonsmpblocks:blocks/lapis_stone_side"
+    }
+}

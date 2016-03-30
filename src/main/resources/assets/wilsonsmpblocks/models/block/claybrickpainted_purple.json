@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "wilsonsmpblocks:blocks/claybrick_painted_purple_top",
+        "down": "wilsonsmpblocks:blocks/claybrick_painted_purple_top",
+        "side": "wilsonsmpblocks:blocks/claybrick_painted_purple_side"
+    }
+}

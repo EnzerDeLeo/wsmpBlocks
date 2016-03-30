@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=nettop": { "model": "wilsonsmpblocks:ropetop_nettop" }
+    }
+}

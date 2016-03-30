@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wsmpBlocks",
+  "name": "WilsonSMP Blocks",
+  "description": "Collection of blocks and items designed for the WilsonSMP server.",
+  "version": "Alpha 1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Enzer DeLeo", "Tuxide"],
+  "credits": "N/A",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

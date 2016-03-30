@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=floor": { "model": "wilsonsmpblocks:lamp_floor" },
+        "variant=hanging": { "model": "wilsonsmpblocks:lamp_hanging" },
+        "variant=walleast": { "model": "wilsonsmpblocks:lamp_walleast" },
+        "variant=wallnorth": { "model": "wilsonsmpblocks:lamp_wallnorth" },
+        "variant=wallsouth": { "model": "wilsonsmpblocks:lamp_wallsouth" },
+        "variant=wallwest": { "model": "wilsonsmpblocks:lamp_wallwest" }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=black": { "model": "wilsonsmpblocks:claybrickfancy_black" },
+        "variant=blue": { "model": "wilsonsmpblocks:claybrickfancy_blue" },
+        "variant=brown": { "model": "wilsonsmpblocks:claybrickfancy_brown" },
+        "variant=cyan": { "model": "wilsonsmpblocks:claybrickfancy_cyan" },
+        "variant=gray": { "model": "wilsonsmpblocks:claybrickfancy_gray" },
+        "variant=green": { "model": "wilsonsmpblocks:claybrickfancy_green" },
+        "variant=lightblue": { "model": "wilsonsmpblocks:claybrickfancy_lightblue" },
+        "variant=lightgray": { "model": "wilsonsmpblocks:claybrickfancy_lightgray" },
+        "variant=lime": { "model": "wilsonsmpblocks:claybrickfancy_lime" },
+        "variant=magenta": { "model": "wilsonsmpblocks:claybrickfancy_magenta" },
+        "variant=orange": { "model": "wilsonsmpblocks:claybrickfancy_orange" },
+        "variant=pink": { "model": "wilsonsmpblocks:claybrickfancy_pink" },
+        "variant=purple": { "model": "wilsonsmpblocks:claybrickfancy_purple" },
+        "variant=red": { "model": "wilsonsmpblocks:claybrickfancy_red" },
+        "variant=white": { "model": "wilsonsmpblocks:claybrickfancy_white" },
+        "variant=yellow": { "model": "wilsonsmpblocks:claybrickfancy_yellow" }
+    }
+}

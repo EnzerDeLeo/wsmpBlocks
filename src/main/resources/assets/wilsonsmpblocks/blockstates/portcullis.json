@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=nsbase": { "model": "wilsonsmpblocks:portcullis_nsbase" },
+        "variant=ns": { "model": "wilsonsmpblocks:portcullis_ns" },
+        "variant=ewbase": { "model": "wilsonsmpblocks:portcullis_ewbase" },
+        "variant=ew": { "model": "wilsonsmpblocks:portcullis_ew" }
+    }
+}

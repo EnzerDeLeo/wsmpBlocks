@@ -1,0 +1,244 @@
+itemGroup.WSMPDecorativeBlocks=WilsonSMP Decorative Blocks
+itemGroup.WSMPItems=WilsonSMP Items
+
+tile.crate.closed.name=Closed Crate
+tile.crate.apple.name=Crate of Apples
+tile.crate.berry.name=Crate of Berries
+tile.crate.carrot.name=Crate of Carrots
+tile.crate.fish.name=Crate of Fish
+tile.crate.grain.name=Crate of Grain
+tile.crate.ingot.name=Crate of Ingots
+tile.crate.potato.name=Crate of Potatoes
+tile.crate.sugar.name=Crate of Sugar
+
+tile.daubwattle.brickcross.name=Cross Framed Brick
+tile.daubwattle.brickleft.name=Left Framed Brick
+tile.daubwattle.brickright.name=Right Framed Brick
+tile.daubwattle.brownempty.name=Brown Daub & Wattle
+tile.daubwattle.browncross.name=Brown Daub & Wattle Cross Frame
+tile.daubwattle.brownleft.name=Brown Daub & Wattle Left Frame
+tile.daubwattle.brownright.name=Brown Daub & Wattle Right Frame
+tile.daubwattle.grayempty.name=Gray Daub & Wattle
+tile.daubwattle.graycross.name=Gray Daub & Wattle Cross Frame
+tile.daubwattle.grayleft.name=Gray Daub & Wattle Left Frame
+tile.daubwattle.grayright.name=Gray Daub & Wattle Right Frame
+tile.daubwattle.whiteempty.name=White Daub & Wattle
+tile.daubwattle.whitecross.name=White Daub & Wattle Cross Frame
+tile.daubwattle.whiteleft.name=White Daub & Wattle Left Frame
+tile.daubwattle.whiteright.name=White Daub & Wattle Right Frame
+
+tile.daubwattlecolor.blue.name=Blue Daub & Wattle
+tile.daubwattlecolor.cyan.name=Cyan Daub & Wattle
+tile.daubwattlecolor.green.name=Green Daub & Wattle
+tile.daubwattlecolor.lightblue.name=Light Blue Daub & Wattle
+tile.daubwattlecolor.lime.name=Lime Daub & Wattle
+tile.daubwattlecolor.magenta.name=Magenta Daub & Wattle
+tile.daubwattlecolor.orange.name=Orange Daub & Wattle
+tile.daubwattlecolor.pink.name=Pink Daub & Wattle
+tile.daubwattlecolor.purple.name=Purple Daub & Wattle
+tile.daubwattlecolor.red.name=Red Daub & Wattle
+tile.daubwattlecolor.yellow.name=Yellow Daub & Wattle
+
+tile.claybrickplain.black.name=Black Clay Brick
+tile.claybrickplain.blue.name=Blue Clay Brick
+tile.claybrickplain.brown.name=Brown Clay Brick
+tile.claybrickplain.cyan.name=Cyan Clay Brick
+tile.claybrickplain.gray.name=Gray Clay Brick
+tile.claybrickplain.green.name=Green Clay Brick
+tile.claybrickplain.lightblue.name=Light Blue Clay Brick
+tile.claybrickplain.lightgray.name=Light Gray Clay Brick
+tile.claybrickplain.lime.name=Lime Clay Brick
+tile.claybrickplain.magenta.name=Magenta Clay Brick
+tile.claybrickplain.orange.name=Orange Clay Brick
+tile.claybrickplain.pink.name=Pink Clay Brick
+tile.claybrickplain.purple.name=Purple Clay Brick
+tile.claybrickplain.red.name=Red Clay Brick
+tile.claybrickplain.white.name=White Clay Brick
+tile.claybrickplain.yellow.name=Yellow Clay Brick
+
+tile.claybrickfancy.black.name=Black Fancy Clay Brick
+tile.claybrickfancy.blue.name=Blue Fancy Clay Brick
+tile.claybrickfancy.brown.name=Brown Fancy Clay Brick
+tile.claybrickfancy.cyan.name=Cyan Fancy Clay Brick
+tile.claybrickfancy.gray.name=Gray Fancy Clay Brick
+tile.claybrickfancy.green.name=Green Fancy Clay Brick
+tile.claybrickfancy.lightblue.name=Light Blue Fancy Clay Brick
+tile.claybrickfancy.lightgray.name=Light Gray Fancy Clay Brick
+tile.claybrickfancy.lime.name=Lime Fancy Fancy Clay Brick
+tile.claybrickfancy.magenta.name=Magenta Fancy Clay Brick
+tile.claybrickfancy.orange.name=Orange Fancy Clay Brick
+tile.claybrickfancy.pink.name=Pink Fancy Clay Brick
+tile.claybrickfancy.purple.name=Purple Fancy Clay Brick
+tile.claybrickfancy.red.name=Red Fancy Clay Brick
+tile.claybrickfancy.white.name=White Fancy Clay Brick
+tile.claybrickfancy.yellow.name=Yellow Fancy Clay Brick
+
+tile.claybrickpainted.raw.name=Tan Painted Clay Brick
+tile.claybrickpainted.blue.name=Blue Painted Clay Brick
+tile.claybrickpainted.cyan.name=Cyan Painted Clay Brick
+tile.claybrickpainted.green.name=Green Painted Clay Brick
+tile.claybrickpainted.lightblue.name=Light Blue Painted Clay Brick
+tile.claybrickpainted.lime.name=Lime Fancy Painted Clay Brick
+tile.claybrickpainted.magenta.name=Magenta Painted Clay Brick
+tile.claybrickpainted.orange.name=Orange Painted Clay Brick
+tile.claybrickpainted.pink.name=Pink Painted Clay Brick
+tile.claybrickpainted.purple.name=Purple Painted Clay Brick
+tile.claybrickpainted.red.name=Red Painted Clay Brick
+tile.claybrickpainted.white.name=White Painted Clay Brick
+tile.claybrickpainted.yellow.name=Yellow Painted Clay Brick
+
+tile.glowstonecolor.blue.name=Blue Glowstone
+tile.glowstonecolor.green.name=Green Glowstone
+tile.glowstonecolor.red.name=Red Glowstone
+tile.glowstonecolor.leaf.name=Glowing Leaves
+
+tile.lantern.candle.name=Candle Box
+tile.lantern.blue.name=Blue Lantern
+tile.lantern.green.name=Green Lantern
+tile.lantern.red.name=Red Lantern
+tile.lantern.yellow.name=Yellow Lantern
+tile.lantern.nether.name=Faded Nether Gem
+
+tile.lapis.brick.name=Lapis Brick
+tile.lapis.sandstone.name=Sandstone Lapis Pillar
+tile.lapis.smooth.name=Polished Lapis
+tile.lapis.smoothstone.name=Smoothstone Lapis Pillar
+
+tile.obsidian.brick.name=Obsidian Brick
+tile.obsidian.chiseled.name=Chiseled Obsidian
+
+tile.obsidianbrickslab.name=Obsidian Brick Slab
+
+tile.obsidianbrickstairs.name=Obsidian Brick Stairs
+
+tile.brickextrastairs.brightred.name=Bright Red Brick Stairs
+tile.brickextrastairs.darkred.name=Dark Red Brick Stairs
+tile.brickextrastairs.tiledred.name=Tiled Red Brick Stairs
+tile.brickextrastairs.tiledcobble.name=Tiled Cobblestone Brick Stairs
+tile.brickextrastairs.stonebrickblack.name=Black Painted Stone Brick Stairs
+
+brickextraslab.tiledcobble.name=Tiled Cobblestone Slab
+brickextraslab.brightred.name=Bright Red Brick Slab
+brickextraslab.darkred.name=Dark Red Brick Slab
+brickextraslab.tiledred.name=Tiled Red Brick Slab
+brickextraslab.stonebrickblack.name=Black Painted Stone Brick Slab
+
+sandstonebrickslab.tan.name=Tan Sandstone Brick Slab
+sandstonebrickslab.tan.name=Tan Sandstone Brick Slab
+sandstonebrickslab.tansmooth.name=Smooth Tan Sandstone Brick Slab
+sandstonebrickslab.tanmossy.name=Mossy Tan Sandstone Brick Slab
+sandstonebrickslab.red.name=Red Sandstone Brick Slab
+sandstonebrickslab.brown.name=Brown Sandstone Brick Slab
+sandstonebrickslab.brownmossy.name=Mossy Brown Sandstone Brick Slab
+sandstonebrickslab.dark.name=Dark Sandstone Brick Slab
+
+tile.sandstonebrickstairs.tan.name=Tan Sandstone Brick Stairs
+tile.sandstonebrickstairs.tansmooth.name=Smooth Tan Sandstone Brick Stairs
+tile.sandstonebrickstairs.brown.name=Brown Sandstone Brick Stairs
+tile.sandstonebrickstairs.brownmossy.name=Mossy Brown Sandstone Brick Stairs
+tile.sandstonebrickstairs.dark.name=Dark Sandstone Brick Stairs
+tile.sandstonebrickstairs.red.name=Red Sandstone Brick Stairs
+tile.sandstonebrickstairs.tanmossy.name=Mossy Tan Sandstone Brick Stairs
+
+tile.sandstonebrick.tan.name=Tan Sandstone Bricks
+tile.sandstonebrick.tansmooth.name=Smooth Tan Sandstone Block
+tile.sandstonebrick.tanmossy.name=Mossy Tan Sandstone Bricks
+tile.sandstonebrick.brown.name=Brown Sandstone Bricks
+tile.sandstonebrick.brownmossy.name=Mossy Brown Sandstone Bricks
+tile.sandstonebrick.dark.name=Dark Sandstone Bricks
+tile.sandstonebrick.red.name=Red Sandstone Bricks
+
+tile.metalcube.tin.name=Block of Tin
+tile.metalcube.copper.name=Block of Copper
+tile.metalcube.oxicopper.name=Block of Oxidized Copper
+tile.metalcube.bronze.name=Block of Bronze
+tile.metalcube.ironrust.name=Block of Rusted Iron
+tile.metalcube.ironwrought.name=Block of Wrought Iron
+tile.metalcube.ironwroughtrust.name=Block of Rusted Wrought Iron
+tile.metalcube.steel.name=Block of Steel
+tile.metalcube.silver.name=Block of Silver
+tile.metalcube.mithral.name=Block of Mithral
+tile.metalcube.ironblood.name=Block of Blood Iron
+tile.metalcube.orichalcum.name=Block of Orichalcum
+
+tile.sandvar.ash.name=Ash
+tile.sandvar.soot.name=Soot
+tile.sandvar.brown.name=Brown Sand
+tile.sandvar.dark.name=Dark Sand
+tile.sandvar.white.name=White Sand
+
+tile.shelves.abandoned.name=Abandoned Bookshelf
+tile.shelves.alchemy.name=Alchemy Bookshelf
+tile.shelves.bottle.name=Shelf of Bottles
+tile.shelves.empty.name=Half Empty Bookshelf
+tile.shelves.food.name=Food Filled Shelf
+
+tile.brickextra.brightred.name=Bright Red Brick
+tile.brickextra.darkred.name=Dark Red Brick
+tile.brickextra.tiledred.name=Tiled Red Brick
+tile.brickextra.tiledcobble.name=Tiled Cobblestone
+tile.brickextra.stonebrickblack.name=Black Painted Stone Brick
+
+tile.pavedstone.pavedandesite.name=Paved Andesite
+tile.pavedstone.paveddiorite.name=Paved Diorite
+tile.pavedstone.pavedgranite.name=Paved Granite
+tile.pavedstone.pavedstone.name=Paved Stone
+
+tile.logrope.ew.name=Horizontal Rope Anchor East/West
+tile.logrope.ns.name=Horizontal Rope Anchor North/South
+tile.logrope.ud.name=Vertical Rope Anchor
+
+tile.rope.ew.name=Horizontal Rope East/West
+tile.rope.ns.name=Horizontal Rope North/South
+tile.rope.ud.name=Vertical Rope
+tile.rope.connect.name=Anchoring Rope
+tile.rope.netns.name=Netting Anchor S/N
+tile.rope.netsn.name=Netting Anchor N/S
+tile.rope.netew.name=Netting Anchor E/W
+tile.rope.netwe.name=Netting Anchor W/E
+tile.rope.anchor.name=Metal Anchoring Rope
+
+tile.ropetop.nettop.name=Netting
+
+tile.nether.ashbrick.name=Ash Brick
+tile.nether.ashbrickblood.name=Blood Specked Ash Brick
+tile.nether.sootbrick.name=Soot Brick
+tile.nether.blastedstone.name=Blasted Stone
+tile.nether.tiledbone.name=Carved Bone Tile
+tile.nether.tiledboneblood.name=Blood Specked Carved Bone Tile
+tile.nether.infernalbrick.name=Infernal Brick
+tile.nether.infestedearth.name=Infested Earth
+tile.nether.rustedmetal.name=Strange Rusted Metal
+
+tile.wheel.swn.name=Northward Pointed Ship Wheel
+tile.wheel.swe.name=Eastward Pointed Ship Wheel
+tile.wheel.sws.name=Southward Pointed Ship Wheel
+tile.wheel.sww.name=Westward Pointed Ship Wheel
+
+tile.portcullis.nsbase.name=Portcullis Base N/S
+tile.portcullis.ns.name=Portcullis N/S
+tile.portcullis.ewbase.name=Portcullis Base E/W
+tile.portcullis.ew.name=Portcullis E/W
+
+tile.lamp.floor.name=Standing Lamp
+tile.lamp.hanging.name=Hanging Lamp
+tile.lamp.walleast.name=Eastern Wall Mounted Lamp
+tile.lamp.wallnorth.name=Northern Wall Mounted Lamp
+tile.lamp.wallsouth.name=Southern Wall Mounted Lamp
+tile.lamp.wallwest.name=Western Wall Mounted Lamp
+
+item.dw_frame_empty.name=Daub and Wattle Frame
+item.dw_frame_left.name=Daub and Wattle Left Frame
+item.dw_frame_right.name=Daub and Wattle Right Frame
+item.dw_frame_x.name=Daub and Wattle X Frame
+item.frame_insert_left.name=Frame Insert Left
+item.frame_insert_right.name=Frame Insert Right
+item.frame_insert_x.name=Frame Insert X
+item.fletching.name=Fletching
+item.flint_arrow_head.name=Flint Arrow Head
+item.arrow_shaft.name=Arrow Shaft
+item.dirt_clod.name=Dirt Clod
+item.alchemical_part_1.name=Strange Alchemical Device
+item.alchemical_part_2.name=Odd Alchemical Gizmo
+item.alchemical_part_3.name=Weird Alchemical Machine
+item.sandpaper.name=Sandpaper

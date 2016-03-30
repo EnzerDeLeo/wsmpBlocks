@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=pavedandesite": { "model": "wilsonsmpblocks:pavedstone_pavedandesite" },
+        "variant=paveddiorite": { "model": "wilsonsmpblocks:pavedstone_paveddiorite" },
+        "variant=pavedgranite": { "model": "wilsonsmpblocks:pavedstone_pavedgranite" },
+        "variant=pavedstone": { "model": "wilsonsmpblocks:pavedstone_pavedstone" }
+    }
+}

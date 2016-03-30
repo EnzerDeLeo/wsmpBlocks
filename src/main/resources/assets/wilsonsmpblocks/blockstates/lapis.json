@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=brick": { "model": "wilsonsmpblocks:lapis_brick" },
+        "variant=sandstone": { "model": "wilsonsmpblocks:lapis_sandstone" },
+        "variant=smooth": { "model": "wilsonsmpblocks:lapis_smooth" },
+        "variant=smoothstone": { "model": "wilsonsmpblocks:lapis_smoothstone" }
+    }
+}

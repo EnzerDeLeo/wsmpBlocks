@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "variant=tan": { "model": "wilsonsmpblocks:sandstonebrick_tan" },
+        "variant=red": { "model": "wilsonsmpblocks:sandstonebrick_red" },
+        "variant=brown": { "model": "wilsonsmpblocks:sandstonebrick_brown" },
+        "variant=dark": { "model": "wilsonsmpblocks:sandstonebrick_dark" },
+        "variant=tanmossy": { "model": "wilsonsmpblocks:sandstonebrick_tanmossy" },
+        "variant=brownmossy": { "model": "wilsonsmpblocks:sandstonebrick_brownmossy" },
+        "variant=tansmooth": { "model": "wilsonsmpblocks:sandstonebrick_tansmooth" }
+    }
+}
